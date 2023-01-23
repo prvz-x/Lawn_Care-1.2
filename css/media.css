@@ -1,0 +1,1197 @@
+@media (max-width: 3600px) {
+    .service p {
+        font-size: 19px;
+    }
+
+    .service_x i {
+        right: 32%;
+    }
+
+    .services_text p {
+        font-size: 19px;
+    }
+
+    .welcome_pic i {
+        right: -9%;
+    }
+
+    .welcome_text h2 {
+        margin: 36px auto;
+    }
+
+    .welcome_text p {
+        font-weight: 500;
+        font-size: 19px;
+        margin-bottom: 48px;
+    }
+
+    .accordion-item {
+        margin-bottom: 36px;
+    }
+
+    .tech p {
+        font-size: 19px;
+    }
+
+    .contact_text p {
+        font-size: 19px;
+    }
+
+    .tastimonial {
+        padding: 28px;
+    }
+
+    .tastimonial p {
+        text-align: center;
+        font-size: 19px;
+    }
+
+    .client {
+        justify-content: center;
+        margin-top: 20px;
+    }
+
+    .client_dtl {
+        text-align: center;
+    }
+
+    .blog_text h5 {
+        font-size: 24px;
+    }
+
+    .blog_text p {
+        font-size: 19px;
+    }
+
+    .subcribe_x {
+        right: 305px;
+    }
+
+    .footer_social p {
+        font-size: 19px;
+        margin: 18px auto;
+    }
+
+    .footer_service_icon {
+        margin-bottom: 8px;
+    }
+
+    .footer_service_icon p {
+        font-size: 19px;
+    }
+
+    .footer_info_top {
+        margin-bottom: 30px;
+    }
+
+    .footer_info_top p {
+        font-size: 19px;
+    }
+
+    .footer_info_top i {
+        margin-bottom: 34px;
+    }
+
+    .footer_info {
+        margin-bottom: 30px;
+    }
+
+    .footer_info p {
+        font-size: 19px;
+    }
+
+    .business_info {
+        margin-bottom: 30px;
+    }
+
+    .business_info h6 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+
+    .business_info p {
+        font-size: 17px;
+    }
+
+    .progress-wrap {
+        right: 10px;
+        bottom: 10px;
+    }
+}
+
+@media (max-width: 1399px) {
+    .service p {
+        font-size: 18px;
+    }
+
+    .service_x i {
+        right: 32%;
+    }
+
+    .services_text p {
+        font-size: 18px;
+    }
+
+    .welcome_pic i {
+        right: -11%;
+    }
+
+    .welcome_text h2 {
+        margin: 16px auto;
+    }
+
+    .welcome_text p {
+        font-weight: 400;
+        font-size: 18px;
+        margin-bottom: 16px;
+    }
+
+    .accordion-item {
+        margin-bottom: 16px;
+    }
+
+    .tech p {
+        font-size: 17px;
+    }
+
+    .contact_text p {
+        font-size: 18px;
+    }
+
+    .tastimonial {
+        padding: 28px;
+    }
+
+    .tastimonial p {
+        font-size: 17px;
+    }
+
+    .client {
+        justify-content: center;
+        margin-top: 20px;
+    }
+
+    .blog_text h5 {
+        font-size: 21px;
+    }
+
+    .blog_text p {
+        font-size: 18px;
+    }
+
+    .subcribe_x {
+        right: 216px;
+    }
+
+    .footer_social p {
+        font-size: 18px;
+        margin: 24px auto;
+    }
+
+    .footer_service_icon {
+        margin-bottom: 12px;
+    }
+
+    .footer_service_icon p {
+        font-size: 17px;
+    }
+
+    .footer_info_top {
+        margin-bottom: 24px;
+    }
+
+    .footer_info_top p {
+        font-size: 17px;
+    }
+
+    .footer_info_top i {
+        margin-bottom: 34px;
+    }
+
+    .footer_info {
+        margin-bottom: 24px;
+    }
+
+    .footer_info p {
+        font-size: 17px;
+    }
+
+    .business_info {
+        margin-bottom: 20px;
+    }
+
+    .business_info h6 {
+        font-size: 18px;
+        margin-bottom: 8px;
+    }
+
+    .business_info p {
+        font-size: 16px;
+    }
+
+    .progress-wrap {
+        right: 10px;
+        bottom: 10px;
+    }
+}
+
+@media (max-width: 1199px) {
+    .header_text h1 {
+        font-size: 68px;
+    }
+
+    .service p {
+        font-size: 16px;
+        padding: 0px 17px;
+    }
+
+    .service_x i {
+        right: 30%;
+    }
+
+    .services_text h2 {
+        font-size: 30px;
+        margin: 24px auto;
+    }
+
+    .services_text p {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+
+    .welcome_pic i {
+        right: -13%;
+    }
+
+    .welcome_text h2 {
+        font-size: 30px;
+        margin: 10px auto;
+    }
+
+    .welcome_text p {
+        font-size: 16px;
+        margin-bottom: 16px;
+    }
+
+    .accordion-item {
+        margin-bottom: 12px;
+    }
+
+    .accordion-button {
+        padding: 12px;
+    }
+
+    .welcome_x i {
+        top: 6%;
+        right: -10%;
+    }
+
+    .tech_pic img {
+        height: 225px;
+    }
+
+    .tech h3 {
+        font-size: 24px;
+        margin: 12px auto;
+    }
+
+    .tech p {
+        font-size: 16px;
+    }
+
+    .contact_text p {
+        font-size: 17px;
+    }
+
+    .tastimonial {
+        padding: 22px;
+    }
+
+    .tastimonial p {
+        font-size: 16px;
+    }
+
+    .client {
+        margin-top: 16px;
+    }
+
+    .client_pic {
+        width: 76px;
+    }
+
+    .client_dtl {
+        margin-left: 12px;
+    }
+
+    .blog_pic img {
+        height: 197px;
+    }
+
+    .blog_pic ul {
+        top: 90px;
+    }
+
+    .blog_text {
+        padding: 18px;
+    }
+
+    .blog_text h5 {
+        font-size: 18px;
+    }
+
+    .blog_text p {
+        font-size: 16px;
+        margin: 8px auto;
+    }
+
+    .subcribe_x {
+        right: 125px;
+    }
+
+    .footer_social p {
+        font-size: 16px;
+        margin: 24px auto 16px;
+    }
+
+    .footer_service h4 {
+        font-size: 21px;
+    }
+
+    .footer_service_icon p {
+        font-size: 16px;
+    }
+
+    .footer_contact_info h4 {
+        font-size: 21px;
+    }
+
+    .footer_info_top p {
+        font-size: 16px;
+    }
+
+    .footer_info_top i {
+        margin-bottom: 34px;
+    }
+
+    .footer_info p {
+        font-size: 16px;
+    }
+
+    .business h4 {
+        font-size: 21px;
+    }
+
+    .business_info {
+        margin-bottom: 12px;
+    }
+
+    .business_info h6 {
+        font-size: 16px;
+        margin-bottom: 5px;
+    }
+
+    .business_info p {
+        font-size: 15px;
+    }
+}
+
+@media(max-width:991px) {
+
+    .navbar>.container-fluid {
+        justify-content: end;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+    }
+
+    .header_text h1 {
+        font-size: 51px;
+    }
+
+    .service h4 {
+        font-size: 19px;
+        margin: 12px auto;
+    }
+
+    .service p {
+        font-size: 15px;
+        line-height: normal;
+        padding: 0px 12px;
+    }
+
+    .service_x i {
+        right: 22%;
+    }
+
+    .services_text h2 {
+        font-size: 21px;
+        margin: 18px auto;
+    }
+
+    .services_text p {
+        font-size: 15px;
+        line-height: normal;
+        margin-bottom: 18px;
+    }
+
+    .btn_y {
+        font-size: 16px;
+        padding: 5px 14px;
+    }
+
+    .welcome_pic i {
+        right: -18%;
+        top: 45%;
+    }
+
+    .welcome_text h4 {
+        font-size: 16px;
+    }
+
+    .welcome_text h2 {
+        font-size: 20px;
+        margin: 5px auto;
+    }
+
+    .welcome_text p {
+        font-size: 15px;
+        line-height: normal;
+        margin-bottom: 6px;
+    }
+
+    .accordion-item {
+        margin-bottom: 5px;
+    }
+
+    .accordion-button {
+        padding: 5px 10px;
+        font-weight: 400;
+        font-size: 14px;
+    }
+
+    .welcome_x i {
+        top: 2%;
+        right: -9%;
+        width: 26px;
+        height: 26px;
+        padding: 8px;
+        font-size: 12px;
+    }
+
+    .tech_pic img {
+        height: 167px;
+    }
+
+    .tech h3 {
+        font-size: 22px;
+        margin: 10px auto;
+    }
+
+    .tech p {
+        font-size: 15px;
+        line-height: normal;
+    }
+
+    .contact_text h1 {
+        font-size: 30px;
+    }
+
+    .contact_text p {
+        font-size: 15px;
+    }
+
+    .contact_nam h1 {
+        font-size: 30px;
+        margin-top: 28px;
+    }
+
+    .tastimonial {
+        height: 258px;
+        padding: 16px;
+    }
+
+    .tastimonial p {
+        font-size: 15px;
+        line-height: normal;
+    }
+
+    .client_dtl {
+        margin-left: 6px;
+    }
+
+    .client_dtl h5 {
+        font-size: 18px;
+        margin-bottom: 2px;
+    }
+
+    .client_dtl h6 {
+        font-weight: 400;
+        font-size: 15px;
+    }
+
+    .blog_pic img {
+        height: 143px;
+    }
+
+    .blog_pic ul {
+        top: 37px;
+    }
+
+    .blog_text {
+        padding: 14px;
+    }
+
+    .blog_text h5 {
+        font-size: 17px;
+        line-height: normal;
+    }
+
+    .blog_text p {
+        font-size: 15px;
+        line-height: normal;
+        margin: 8px auto;
+    }
+
+    .subcribe_x {
+        right: 30px;
+    }
+
+    .footer_social p {
+        font-size: 15px;
+        line-height: normal;
+        margin: 20px auto 16px;
+    }
+
+    .footer_social_icon ul li {
+        width: 34px;
+        height: 34px;
+        margin: 3px;
+    }
+
+    .footer_service {
+        padding-left: 0px;
+    }
+
+    .footer_service h4 {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .footer_service_icon p {
+        font-size: 15px;
+        margin-left: 12px;
+    }
+
+    .footer_contact_info h4 {
+        font-size: 20px;
+        margin: 0px 0px 8px;
+    }
+
+    .footer_info_top {
+        display: inline;
+        margin-bottom: 0px;
+    }
+
+    .footer_info_top p {
+        font-size: 14px;
+        margin-left: 0px;
+        margin-bottom: 5px;
+    }
+
+    .footer_info_top i {
+        margin-bottom: 4px;
+    }
+
+    .footer_info {
+        display: inline;
+        margin-bottom: 0px;
+    }
+
+    .footer_info p {
+        font-size: 14px;
+        margin-left: 0px;
+        margin-bottom: 5px;
+    }
+
+    .business h4 {
+        font-size: 20px;
+    }
+
+    .business_info p {
+        font-size: 14px;
+    }
+
+    .progress-wrap {
+        display: none;
+    }
+}
+
+@media(max-width:767px) {
+
+    .top_header_social ul {
+        justify-content: center;
+        margin-bottom: 8px;
+    }
+
+    form {
+        margin-top: 8px;
+        text-align: center;
+    }
+
+    form i {
+        right: 31%;
+    }
+
+    .service {
+        margin-bottom: 36px;
+        height: 326px;
+    }
+
+    .service h4 {
+        font-size: 22px;
+        margin: 20px auto;
+    }
+
+    .service p {
+        font-size: 16px;
+        padding: 0px 24px;
+    }
+
+    .service_x i {
+        right: 42%;
+    }
+
+    .services_text h5 {
+        text-align: center;
+    }
+
+    .services_text h2 {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .services_text p {
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .btn_y {
+        margin: auto;
+    }
+
+    .welcome_pic i {
+        right: -12%;
+    }
+
+    .welcome_text h4 {
+        font-size: 18px;
+        text-align: center;
+    }
+
+    .welcome_text h2 {
+        font-size: 24px;
+        margin: 10px auto;
+        text-align: center;
+    }
+
+    .welcome_text p {
+        font-size: 16px;
+        text-align: center;
+        margin-bottom: 24px;
+    }
+
+    .accordion-item {
+        margin-bottom: 12px;
+    }
+
+    .accordion-button {
+        padding: 8px 12px;
+        font-weight: 500;
+        font-size: 16px;
+    }
+
+    .welcome_x i {
+        top: 4%;
+        right: -5%;
+        width: 32px;
+        height: 32px;
+        padding: 8px;
+        font-size: 16px;
+    }
+
+    .head_text h4 {
+        font-size: 18px;
+    }
+
+    .head_text h2 {
+        font-size: 24px;
+    }
+
+    .tech_pic img {
+        height: 267px;
+    }
+
+    .tech h3 {
+        font-size: 24px;
+        margin: 14px auto;
+    }
+
+    .tech p {
+        font-size: 17px;
+    }
+
+    .contact_text h1 {
+        font-size: 28px;
+    }
+
+    .contact_text p {
+        font-size: 17px;
+    }
+
+    .contact_nam h1 {
+        font-size: 28px;
+        margin-top: 12px;
+    }
+
+    .tastimonial {
+        height: 236px;
+        padding: 24px;
+    }
+
+    .tastimonial p {
+        font-size: 17px;
+    }
+
+    .client_dtl {
+        margin-left: 16px;
+    }
+
+    .client_dtl h5 {
+        font-size: 18px;
+        margin-bottom: 2px;
+    }
+
+    .client_dtl h6 {
+        font-weight: 400;
+        font-size: 15px;
+    }
+
+    .blog {
+        margin-bottom: 24px;
+    }
+
+    .blog_pic img {
+        height: 236px;
+    }
+
+    .blog_pic ul {
+        top: 132px;
+    }
+
+    .blog_text {
+        padding: 24px;
+    }
+
+    .blog_text h5 {
+        text-align: center;
+        font-size: 21px;
+    }
+
+    .blog_text p {
+        font-size: 17px;
+        text-align: center;
+        margin: 12px auto;
+    }
+
+    .subcribe_inp {
+        justify-content: center;
+    }
+
+    .subcribe_text h4 {
+        text-align: center;
+        margin-bottom: 8px;
+    }
+
+    .search_y {
+        padding: 5px 50px 6px 10px;
+    }
+
+    input.search_y::placeholder {
+        font-weight: 400;
+        font-size: 16px;
+    }
+
+    .subcribe_x {
+        right: 132px;
+        padding: 8px;
+    }
+
+    .subcribe_x h5 {
+        font-size: 16px;
+    }
+
+    .footer_social {
+        margin-bottom: 24px;
+    }
+
+    .footer_social p {
+        font-size: 16px;
+        margin: 20px auto;
+    }
+
+    .footer_social_icon ul li {
+        width: 36px;
+        height: 36px;
+        margin: 6px;
+    }
+
+    .footer_service {
+        margin-bottom: 24px;
+    }
+
+    .footer_service_icon {
+        margin-bottom: 8px;
+    }
+
+    .footer_service h4 {
+        font-size: 24px;
+        margin: 0px 0px 16px;
+    }
+
+    .footer_service_icon p {
+        font-size: 16px;
+    }
+
+    .footer_contact_info h4 {
+        font-size: 24px;
+        margin: 0px 0px 10px;
+    }
+
+    .footer_info_top p {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+
+    .footer_info_top i {
+        margin-bottom: 7px;
+    }
+
+    .footer_info p {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+
+    .footer_info i {
+        margin-bottom: 7px;
+    }
+
+    .business h4 {
+        font-size: 24px;
+        margin: 16px 0px;
+    }
+
+    .business_info p {
+        font-size: 16px;
+    }
+}
+
+@media(max-width:575px) {
+    .welcome_pic i {
+        right: -9%;
+    }
+
+    .subcribe_x {
+        right: 144px;
+    }
+}
+
+@media(max-width:425px) {
+    form i {
+        right: 22%;
+    }
+
+    .header_text h5 {
+        text-align: center;
+    }
+
+    .header_text h1 {
+        text-align: center;
+        font-size: 45px;
+    }
+
+    .header_text p {
+        text-align: center;
+    }
+
+    .btn_x {
+        margin: auto;
+        font-size: 16px;
+    }
+
+    .blog_pic img {
+        height: 266px;
+    }
+
+    .blog_pic ul {
+        top: 159px;
+    }
+
+    .welcome_x i {
+        right: -9%;
+    }
+
+    .service_x i {
+        right: 40%;
+    }
+
+    .tech p {
+        font-size: 16px;
+    }
+
+    .contact_text p {
+        font-size: 16px;
+    }
+
+    .tastimonial p {
+        font-size: 16px;
+    }
+
+    .tastimonial {
+        height: 258px;
+    }
+
+    .blog_text p {
+        font-size: 16px;
+    }
+
+    .subcribe_x {
+        right: 54px;
+    }
+}
+
+@media(max-width:375px) {
+    form i {
+        right: 17%;
+    }
+
+    .header_text h1 {
+        font-size: 40px;
+    }
+
+    .services_text p {
+        font-size: 15px;
+    }
+
+    .service h4 {
+        margin: 12px auto;
+    }
+
+    .service p {
+        padding: 0px 16px;
+        font-size: 15px;
+    }
+
+    .services_text h5 {
+        font-size: 16px;
+    }
+
+    .services_text h2{
+        font-size: 19px;
+    }
+
+    .service_x i {
+        right: 37%;
+    }
+
+    .welcome_pic i {
+        right: -11%;
+    }
+
+    .welcome_text p {
+        font-size: 15px;
+        margin-bottom: 18px;
+    }
+
+    .welcome_text h4 {
+        font-size: 16px;
+    }
+
+    .welcome_text h2 {
+        font-size: 19px;
+    }
+
+    .accordion-button {
+        font-size: 14px;
+    }
+
+    .welcome_x i {
+        top: 0%;
+        right: -10%;
+    }
+
+    .head_text h4 {
+        font-size: 16px;
+    }
+
+    .head_text h2 {
+        font-size: 19px;
+    }
+
+    .contact_text p {
+        font-size: 15px;
+    }
+
+    .tech_pic img {
+        height: 231px;
+    }
+
+    .tech p {
+        font-size: 15px;
+    }
+
+    .tech h3 {
+        font-size: 19px;
+    }
+
+    .blog_pic img {
+        height: 213px;
+    }
+
+    .blog_pic ul {
+        top: 108px;
+    }
+
+    .blog_text h5 {
+        font-size: 18px;
+    }
+
+    .blog_text p {
+        font-size: 15px;
+    }
+
+    .client_dtl {
+        margin-left: 10px;
+    }
+
+    .contact_nam h1 {
+        font-size: 24px;
+    }
+
+    .tastimonial {
+        height: 282px;
+    }
+
+    .subcribe_x {
+        right: 24px;
+    }
+}
+
+@media(max-width:320px) {
+    form i {
+        right: 16%;
+    }
+
+    .header_text h1 {
+        font-size: 40px;
+    }
+
+    .header_text p {
+        font-size: 18px;
+    }
+
+    .service p {
+        padding: 0px 8px;
+        font-size: 15px;
+    }
+
+    .service_x i {
+        right: 36%;
+        bottom: -8%;
+    }
+
+    .services_text p {
+        font-size: 15px;
+    }
+
+    .welcome_pic i {
+        top: 42%;
+        right: -14%;
+    }
+
+    .welcome_text h4 {
+        font-size: 16px;
+    }
+
+    .welcome_text h2 {
+        font-size: 19px;
+    }
+
+    .welcome_text p {
+        font-size: 15px;
+        margin-bottom: 16px;
+    }
+
+    .accordion-button {
+        font-weight: 400;
+        font-size: 15px;
+    }
+
+    .welcome_x i {
+        right: -12%;
+        top: 2%;
+    }
+
+    .head_text h2 {
+        font-size: 21px;
+    }
+
+    .tech_pic img {
+        height: 213px;
+    }
+
+    .tech p {
+        font-size: 15px;
+    }
+
+    .tech h3 {
+        font-size: 22px;
+        margin: 10px auto;
+    }
+
+    .contact_text p {
+        font-size: 15px;
+    }
+
+    .tastimonial {
+        height: 272px;
+    }
+
+    .tastimonial p {
+        font-size: 15px;
+    }
+
+    .client_dtl {
+        margin-left: 10px;
+    }
+
+    .blog_pic img {
+        height: 196px;
+    }
+
+    .blog_pic ul {
+        top: 91px;
+    }
+
+    .blog_text p {
+        font-size: 15px;
+    }
+
+    .subcribe_x {
+        right: 26px;
+    }
+
+    .business_info p {
+        font-size: 15px;
+    }
+}
